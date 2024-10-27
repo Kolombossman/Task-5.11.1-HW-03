@@ -46,11 +46,11 @@ article h2 {
     margin-bottom: 5px;
 }
 
-article h2.first::after {
+article h2.news__first::after {
     content: " NEW";
     color:orangered;
 }
-article h2.second::after {
+article h2.news__second::after {
     content: " NEW";
     color:orangered;
 }

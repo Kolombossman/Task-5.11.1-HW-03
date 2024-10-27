@@ -24,13 +24,13 @@ LICENSE: [MIT](./license.md)
   * [Markdown](https://en.wikipedia.org/wiki/Markdown "https://en.wikipedia.org/wiki/Markdown") облегчённый язык разметки
   * [CSS](https://en.wikipedia.org/wiki/CSS "https://en.wikipedia.org/wiki/CSS") формальный язык декодирования и описания внешнего вида документа
 
-  * [Web-fonts (Roboto)](https://fonts.google.com/specimen/Roboto "https://fonts.google.com/specimen/Roboto") текстовый шрифт
+  * Web-fonts: [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman#:~:text=Times%20New%20Roman%20is%20a,in%20The%20Times's%20advertising%20department. "https://en.wikipedia.org/wiki/Times_New_Roman#:~:text=Times%20New%20Roman%20is%20a,in%20The%20Times's%20advertising%20department.") , [Segoe UI](https://learn.microsoft.com/en-us/typography/font-list/segoe-ui "https://learn.microsoft.com/en-us/typography/font-list/segoe-ui") текстовые шрифты
 <br/>
 <br/>
 
 ## <u>Как открыть/запустить</u>:
 
-Зайти в файловом менеджере в главную директорию *site*. Выбрать и зайти в папку *pages*, кликнуть 2 раза по файлу [index.html](./site/pages/index.html) или кликнуть по данной ссылке.
+Зайти в файловом менеджере в главную директорию *site*. Выбрать и зайти в папку *pages*, кликнуть 1 раз по файлу [index.html](./site/pages/index.html) или кликнуть по данной ссылке.
 
 
 
